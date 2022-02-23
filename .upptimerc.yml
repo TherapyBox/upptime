@@ -5,10 +5,6 @@ repo: upptime # The name of this repository
 sites:
   - name: Therapy Box website
     url: https://therapy-box.co.uk/
-  - name: Predictable 5 API
-    url: https://therapy-box.co.uk/pa_api.php
-  - name: Chatable 5 API
-    url: https://therapy-box.co.uk/ca_api.php
   - name: VocaQuest frontend staging
     url: http://frontend.staging.voca.therapy-box.co.uk/
   - name: VocaQuest server staging
@@ -17,10 +13,18 @@ sites:
     url: https://app.voca-quest.com/
   - name: VocaQuest server production
     url: https://srv.voca-quest.com/
+  - name: Predictable 5 API
+    url: https://therapy-box.co.uk/pa_api.php
+  - name: Chatable 5 API
+    url: https://therapy-box.co.uk/ca_api.php
   - name: DCA play production
     url: https://play.languageexplorer.app/
   - name: DCA webplatform production
     url: https://web-platform.prod.voca.therapy-box.co.uk/
+  - name: VERT web platform production
+    url: https://vert-platform.prod.voca.therapy-box.co.uk/
+  - name: Appnocrat
+    url: https://www.appnocrat.com/
   - name: Jira
     url: https://jira.internal.therapy-box.co.uk/
   
