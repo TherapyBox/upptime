@@ -1,6 +1,5 @@
-# Change these first
-owner: TherapyBox # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: TherapyBox
+repo: upptime
 
 sites:
   - name: Therapy Box website
