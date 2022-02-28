@@ -42,9 +42,9 @@
     "url": "https://srv.staging.voca.therapy-box.co.uk/",
     "icon": "https://favicons.githubusercontent.com/srv.staging.voca.therapy-box.co.uk",
     "slug": "voca-quest-server-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.07%",
-    "uptimeDay": "95.38%",
+    "uptimeDay": "95.37%",
     "uptimeWeek": "99.07%",
     "uptimeMonth": "99.07%",
     "uptimeYear": "99.07%",
@@ -174,9 +174,9 @@
     "url": "https://web-platform.prod.voca.therapy-box.co.uk/",
     "icon": "https://favicons.githubusercontent.com/web-platform.prod.voca.therapy-box.co.uk",
     "slug": "dca-webplatform-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.07%",
-    "uptimeDay": "95.39%",
+    "uptimeDay": "95.38%",
     "uptimeWeek": "99.07%",
     "uptimeMonth": "99.07%",
     "uptimeYear": "99.07%",
@@ -195,18 +195,18 @@
     "icon": "https://favicons.githubusercontent.com/vert-platform.prod.voca.therapy-box.co.uk",
     "slug": "vert-web-platform-production",
     "status": "down",
-    "uptime": "99.18%",
-    "uptimeDay": "95.96%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.18%",
+    "uptime": "99.09%",
+    "uptimeDay": "95.49%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "99.09%",
     "time": 555,
     "timeDay": 628,
     "timeWeek": 555,
     "timeMonth": 555,
     "timeYear": 555,
     "dailyMinutesDown": {
-      "2022-02-28": 58
+      "2022-02-28": 65
     }
   },
   {
@@ -233,18 +233,18 @@
     "icon": "https://favicons.githubusercontent.com/jira.internal.therapy-box.co.uk",
     "slug": "jira",
     "status": "down",
-    "uptime": "98.74%",
-    "uptimeDay": "93.74%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "98.74%",
-    "uptimeYear": "98.74%",
+    "uptime": "98.64%",
+    "uptimeDay": "93.27%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "98.64%",
+    "uptimeYear": "98.64%",
     "time": 1254,
     "timeDay": 982,
     "timeWeek": 1254,
     "timeMonth": 1254,
     "timeYear": 1254,
     "dailyMinutesDown": {
-      "2022-02-28": 90
+      "2022-02-28": 97
     }
   }
 ]
