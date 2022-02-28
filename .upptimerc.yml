@@ -12,6 +12,8 @@ sites:
     url: https://app.voca-quest.com/
   - name: VocaQuest server production
     url: https://srv.voca-quest.com/
+  - name: Language Explorer production
+    url: https://app.languageexplorerapp.co.uk/
   - name: Predictable 5 API
     url: https://therapy-box.co.uk/pa_api.php
   - name: Chatable 5 API
