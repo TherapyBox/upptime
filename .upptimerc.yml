@@ -4,6 +4,8 @@ repo: upptime
 sites:
   - name: Therapy Box website
     url: https://therapy-box.co.uk/
+  - name: Therapy Box files
+    url: https://therapy-box.com/
   - name: VocaQuest frontend staging
     url: http://frontend.staging.voca.therapy-box.co.uk/
   - name: VocaQuest server staging
