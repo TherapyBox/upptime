@@ -60,9 +60,9 @@
     "url": "https://srv.staging.voca.therapy-box.co.uk/",
     "icon": "https://favicons.githubusercontent.com/srv.staging.voca.therapy-box.co.uk",
     "slug": "voca-quest-server-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.52%",
@@ -72,6 +72,7 @@
     "timeMonth": 455,
     "timeYear": 455,
     "dailyMinutesDown": {
+      "2022-03-07": 0,
       "2022-02-28": 85
     }
   },
@@ -218,9 +219,9 @@
     "url": "https://vert-platform.prod.voca.therapy-box.co.uk/",
     "icon": "https://favicons.githubusercontent.com/vert-platform.prod.voca.therapy-box.co.uk",
     "slug": "vert-web-platform-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.53%",
@@ -230,6 +231,7 @@
     "timeMonth": 548,
     "timeYear": 548,
     "dailyMinutesDown": {
+      "2022-03-07": 0,
       "2022-02-28": 84
     }
   },
@@ -256,19 +258,19 @@
     "url": "https://jira.internal.therapy-box.co.uk/",
     "icon": "https://favicons.githubusercontent.com/jira.internal.therapy-box.co.uk",
     "slug": "jira",
-    "status": "up",
-    "uptime": "99.29%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "99.29%",
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.35%",
     "time": 1205,
     "timeDay": 1193,
     "timeWeek": 1185,
     "timeMonth": 1205,
     "timeYear": 1205,
     "dailyMinutesDown": {
-      "2022-03-07": 10,
+      "2022-03-07": 0,
       "2022-02-28": 115
     }
   }
