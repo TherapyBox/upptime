@@ -30,6 +30,8 @@ sites:
     url: https://www.appnocrat.com/
   - name: Jira
     url: https://jira.internal.therapy-box.co.uk/
+  - name: Predictable CMS
+    url: https://predictable.therapy-box.co.uk/
   
 
 status-website:
