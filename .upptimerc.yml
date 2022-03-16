@@ -32,7 +32,11 @@ sites:
     url: https://jira.internal.therapy-box.co.uk/
   - name: Predictable CMS
     url: https://predictable.therapy-box.co.uk/
-
+  - name: Stream staging CMS
+    url: https://stream-cms.internal.therapy-box.co.uk/
+  - name: Stream staging API
+    url: https://stream-api.internal.therapy-box.co.uk/get-sync-metadata
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
