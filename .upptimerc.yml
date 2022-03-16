@@ -6,6 +6,8 @@ sites:
     url: https://therapy-box.co.uk/
   - name: Therapy Box files
     url: https://therapy-box.com/
+  - name: Therapy Box mail
+    url: https://mail.therapy-box.co.uk/
   - name: VocaQuest frontend staging
     url: http://frontend.staging.voca.therapy-box.co.uk/
   - name: VocaQuest server staging
