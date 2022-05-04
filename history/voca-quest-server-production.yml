@@ -1,7 +1,7 @@
 url: https://srv.voca-quest.com/
-status: down
-code: 502
-responseTime: 553
-lastUpdated: 2022-05-04T21:40:17.273Z
+status: up
+code: 200
+responseTime: 529
+lastUpdated: 2022-05-04T21:51:33.937Z
 startTime: Wed Feb 23 2022 11:02:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
