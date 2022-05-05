@@ -135,14 +135,14 @@
     "url": "https://srv.voca-quest.com/",
     "icon": "https://favicons.githubusercontent.com/srv.voca-quest.com",
     "slug": "voca-quest-server-production",
-    "status": "up",
-    "uptime": "90.35%",
-    "uptimeDay": "20.33%",
-    "uptimeWeek": "14.95%",
-    "uptimeMonth": "77.43%",
-    "uptimeYear": "90.35%",
+    "status": "down",
+    "uptime": "90.44%",
+    "uptimeDay": "20.97%",
+    "uptimeWeek": "15.04%",
+    "uptimeMonth": "77.62%",
+    "uptimeYear": "90.44%",
     "time": 475,
-    "timeDay": 482,
+    "timeDay": 481,
     "timeWeek": 469,
     "timeMonth": 472,
     "timeYear": 475,
@@ -155,7 +155,7 @@
       "2022-04-30": 1191,
       "2022-04-29": 1286,
       "2022-04-28": 1164,
-      "2022-04-27": 579
+      "2022-04-27": 494
     }
   },
   {
@@ -175,7 +175,7 @@
     "timeMonth": 0,
     "timeYear": 493,
     "dailyMinutesDown": {
-      "2022-05-05": 928,
+      "2022-05-05": 937,
       "2022-05-04": 1440,
       "2022-05-03": 1440,
       "2022-05-02": 1440,
