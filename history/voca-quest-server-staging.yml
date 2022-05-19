@@ -1,7 +1,7 @@
 url: https://srv.staging.voca.therapy-box.co.uk/
-status: down
-code: 503
-responseTime: 440
-lastUpdated: 2022-05-19T07:38:22.402Z
+status: up
+code: 200
+responseTime: 319
+lastUpdated: 2022-05-19T07:49:37.919Z
 startTime: Wed Feb 23 2022 11:02:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
