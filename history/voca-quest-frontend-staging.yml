@@ -1,7 +1,7 @@
 url: http://frontend.staging.voca.therapy-box.co.uk/
-status: up
-code: 200
-responseTime: 8040
-lastUpdated: 2022-06-20T07:16:36.925Z
+status: down
+code: 503
+responseTime: 755
+lastUpdated: 2022-06-20T17:22:43.028Z
 startTime: Wed Feb 23 2022 11:02:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
