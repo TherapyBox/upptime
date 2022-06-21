@@ -1,7 +1,7 @@
 url: https://jira.internal.therapy-box.co.uk/
-status: up
-code: 200
-responseTime: 705
-lastUpdated: 2022-06-20T23:06:08.733Z
+status: down
+code: 503
+responseTime: 474
+lastUpdated: 2022-06-21T04:18:40.757Z
 startTime: Wed Feb 23 2022 11:02:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
