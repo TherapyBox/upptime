@@ -4,18 +4,19 @@
     "url": "https://therapy-box.co.uk/",
     "icon": "https://favicons.githubusercontent.com/therapy-box.co.uk",
     "slug": "therapy-box-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1252,
-    "timeDay": 1329,
-    "timeWeek": 996,
-    "timeMonth": 1073,
-    "timeYear": 1252,
+    "time": 1302,
+    "timeDay": 5020,
+    "timeWeek": 1853,
+    "timeMonth": 1320,
+    "timeYear": 1302,
     "dailyMinutesDown": {
+      "2022-07-02": 0,
       "2022-03-11": 38
     }
   },
@@ -377,9 +378,9 @@
     "slug": "appnocrat",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 493,
     "timeDay": 5289,
@@ -387,7 +388,6 @@
     "timeMonth": 751,
     "timeYear": 493,
     "dailyMinutesDown": {
-      "2022-07-02": 6,
       "2022-04-04": 21,
       "2022-03-28": 19
     }
