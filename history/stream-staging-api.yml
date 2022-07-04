@@ -1,7 +1,7 @@
 url: https://stream-api.internal.therapy-box.co.uk/get-sync-metadata
-status: down
-code: 503
-responseTime: 449
-lastUpdated: 2022-07-04T17:33:51.197Z
+status: up
+code: 200
+responseTime: 470
+lastUpdated: 2022-07-04T17:41:22.805Z
 startTime: Wed Mar 16 2022 11:04:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
