@@ -59,11 +59,11 @@
     "url": "https://mail.therapy-box.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/mail.therapy-box.co.uk.ico",
     "slug": "therapy-box-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.83%",
     "time": 656,
     "timeDay": 685,
@@ -71,6 +71,7 @@
     "timeMonth": 645,
     "timeYear": 656,
     "dailyMinutesDown": {
+      "2023-01-25": 4,
       "2022-12-05": 173,
       "2022-09-21": 17,
       "2022-08-08": 177,
@@ -102,7 +103,7 @@
     "timeMonth": 0,
     "timeYear": 899,
     "dailyMinutesDown": {
-      "2023-01-25": 525,
+      "2023-01-25": 538,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -249,7 +250,7 @@
     "timeMonth": 0,
     "timeYear": 519,
     "dailyMinutesDown": {
-      "2023-01-25": 525,
+      "2023-01-25": 538,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -391,9 +392,9 @@
     "slug": "voca-quest-frontend-production",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 604,
     "timeDay": 606,
@@ -401,7 +402,6 @@
     "timeMonth": 597,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2023-01-25": 5,
       "2022-11-17": 32,
       "2022-10-20": 76,
       "2022-03-04": 24
@@ -589,7 +589,7 @@
     "timeMonth": 0,
     "timeYear": 586,
     "dailyMinutesDown": {
-      "2023-01-25": 525,
+      "2023-01-25": 539,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -728,7 +728,7 @@
     "timeMonth": 0,
     "timeYear": 600,
     "dailyMinutesDown": {
-      "2023-01-25": 525,
+      "2023-01-25": 539,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -907,7 +907,7 @@
     "timeMonth": 0,
     "timeYear": 614,
     "dailyMinutesDown": {
-      "2023-01-25": 525,
+      "2023-01-25": 539,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -1071,7 +1071,7 @@
     "timeMonth": 0,
     "timeYear": 1557,
     "dailyMinutesDown": {
-      "2023-01-25": 525,
+      "2023-01-25": 539,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -1224,7 +1224,7 @@
     "timeMonth": 0,
     "timeYear": 536,
     "dailyMinutesDown": {
-      "2023-01-25": 525,
+      "2023-01-25": 539,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -1343,7 +1343,7 @@
     "timeMonth": 0,
     "timeYear": 655,
     "dailyMinutesDown": {
-      "2023-01-25": 525,
+      "2023-01-25": 539,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
