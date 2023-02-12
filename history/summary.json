@@ -105,7 +105,7 @@
     "timeMonth": 0,
     "timeYear": 899,
     "dailyMinutesDown": {
-      "2023-02-12": 828,
+      "2023-02-12": 834,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
       "2023-02-09": 1440,
@@ -270,7 +270,7 @@
     "timeMonth": 0,
     "timeYear": 519,
     "dailyMinutesDown": {
-      "2023-02-12": 829,
+      "2023-02-12": 834,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
       "2023-02-09": 1440,
@@ -480,11 +480,11 @@
     "url": "https://app.languageexplorerapp.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/app.languageexplorerapp.co.uk.ico",
     "slug": "language-explorer-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "52.74%",
-    "uptimeWeek": "71.39%",
-    "uptimeMonth": "93.34%",
+    "uptimeDay": "52.57%",
+    "uptimeWeek": "71.37%",
+    "uptimeMonth": "93.37%",
     "uptimeYear": "99.42%",
     "time": 19196,
     "timeDay": 27063,
@@ -492,14 +492,14 @@
     "timeMonth": 25749,
     "timeYear": 19196,
     "dailyMinutesDown": {
-      "2023-02-12": 449,
+      "2023-02-12": 451,
       "2023-02-11": 504,
       "2023-02-10": 583,
       "2023-02-09": 445,
       "2023-02-08": 437,
       "2023-02-07": 244,
       "2023-02-06": 224,
-      "2023-02-05": 34
+      "2023-02-05": 17
     }
   },
   {
@@ -578,7 +578,7 @@
     "timeMonth": 0,
     "timeYear": 586,
     "dailyMinutesDown": {
-      "2023-02-12": 829,
+      "2023-02-12": 835,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
       "2023-02-09": 1440,
@@ -735,7 +735,7 @@
     "timeMonth": 0,
     "timeYear": 600,
     "dailyMinutesDown": {
-      "2023-02-12": 829,
+      "2023-02-12": 835,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
       "2023-02-09": 1440,
@@ -921,18 +921,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vert-platform.prod.voca.therapy-box.co.uk.ico",
     "slug": "vert-web-platform-production",
     "status": "down",
-    "uptime": "64.49%",
+    "uptime": "64.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "64.49%",
+    "uptimeYear": "64.48%",
     "time": 614,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 614,
     "dailyMinutesDown": {
-      "2023-02-12": 829,
+      "2023-02-12": 835,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
       "2023-02-09": 1440,
@@ -1114,7 +1114,7 @@
     "timeMonth": 0,
     "timeYear": 1557,
     "dailyMinutesDown": {
-      "2023-02-12": 829,
+      "2023-02-12": 835,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
       "2023-02-09": 1440,
@@ -1285,7 +1285,7 @@
     "timeMonth": 0,
     "timeYear": 536,
     "dailyMinutesDown": {
-      "2023-02-12": 829,
+      "2023-02-12": 835,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
       "2023-02-09": 1440,
@@ -1422,7 +1422,7 @@
     "timeMonth": 0,
     "timeYear": 655,
     "dailyMinutesDown": {
-      "2023-02-12": 829,
+      "2023-02-12": 835,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
       "2023-02-09": 1440,
