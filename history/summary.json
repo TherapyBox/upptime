@@ -49,7 +49,7 @@
     "timeMonth": 0,
     "timeYear": 392,
     "dailyMinutesDown": {
-      "2023-06-01": 646,
+      "2023-06-01": 652,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
@@ -184,7 +184,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/frontend.staging.voca.therapy-box.co.uk.ico",
     "slug": "voca-quest-frontend-staging",
     "status": "down",
-    "uptime": "48.65%",
+    "uptime": "48.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -195,7 +195,7 @@
     "timeMonth": 0,
     "timeYear": 925,
     "dailyMinutesDown": {
-      "2023-06-01": 646,
+      "2023-06-01": 652,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
@@ -461,7 +461,7 @@
     "timeMonth": 0,
     "timeYear": 595,
     "dailyMinutesDown": {
-      "2023-06-01": 646,
+      "2023-06-01": 652,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
@@ -763,19 +763,19 @@
     "url": "https://app.languageexplorerapp.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/app.languageexplorerapp.co.uk.ico",
     "slug": "language-explorer-production",
-    "status": "up",
+    "status": "down",
     "uptime": "83.79%",
-    "uptimeDay": "61.78%",
-    "uptimeWeek": "91.31%",
-    "uptimeMonth": "98.00%",
+    "uptimeDay": "61.62%",
+    "uptimeWeek": "91.28%",
+    "uptimeMonth": "97.99%",
     "uptimeYear": "79.66%",
     "time": 20296,
-    "timeDay": 28128,
+    "timeDay": 28140,
     "timeWeek": 27686,
     "timeMonth": 23816,
     "timeYear": 21277,
     "dailyMinutesDown": {
-      "2023-06-01": 310,
+      "2023-06-01": 312,
       "2023-05-31": 430,
       "2023-05-30": 134,
       "2023-04-27": 750,
@@ -853,7 +853,7 @@
       "2023-02-14": 1047,
       "2023-02-13": 804,
       "2023-02-12": 757,
-      "2023-02-11": 459
+      "2023-02-11": 443
     }
   },
   {
@@ -939,7 +939,7 @@
     "timeMonth": 0,
     "timeYear": 640,
     "dailyMinutesDown": {
-      "2023-06-01": 646,
+      "2023-06-01": 653,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
@@ -1201,7 +1201,7 @@
     "timeMonth": 0,
     "timeYear": 669,
     "dailyMinutesDown": {
-      "2023-06-01": 646,
+      "2023-06-01": 653,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
@@ -1495,14 +1495,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "35.81%",
+    "uptimeYear": "35.80%",
     "time": 619,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 667,
     "dailyMinutesDown": {
-      "2023-06-01": 646,
+      "2023-06-01": 653,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
@@ -1786,7 +1786,7 @@
     "timeMonth": 0,
     "timeYear": 1727,
     "dailyMinutesDown": {
-      "2023-06-01": 646,
+      "2023-06-01": 653,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
@@ -2061,7 +2061,7 @@
     "timeMonth": 0,
     "timeYear": 594,
     "dailyMinutesDown": {
-      "2023-06-01": 646,
+      "2023-06-01": 653,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
@@ -2304,7 +2304,7 @@
     "timeMonth": 0,
     "timeYear": 684,
     "dailyMinutesDown": {
-      "2023-06-01": 646,
+      "2023-06-01": 653,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
