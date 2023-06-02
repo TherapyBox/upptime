@@ -49,7 +49,7 @@
     "timeMonth": 0,
     "timeYear": 392,
     "dailyMinutesDown": {
-      "2023-06-02": 1358,
+      "2023-06-02": 1364,
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
@@ -196,7 +196,7 @@
     "timeMonth": 0,
     "timeYear": 925,
     "dailyMinutesDown": {
-      "2023-06-02": 1358,
+      "2023-06-02": 1364,
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
@@ -463,7 +463,7 @@
     "timeMonth": 0,
     "timeYear": 596,
     "dailyMinutesDown": {
-      "2023-06-02": 1358,
+      "2023-06-02": 1364,
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
@@ -766,10 +766,10 @@
     "url": "https://app.languageexplorerapp.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/app.languageexplorerapp.co.uk.ico",
     "slug": "language-explorer-production",
-    "status": "up",
+    "status": "down",
     "uptime": "83.81%",
-    "uptimeDay": "33.29%",
-    "uptimeWeek": "79.93%",
+    "uptimeDay": "33.52%",
+    "uptimeWeek": "79.90%",
     "uptimeMonth": "95.38%",
     "uptimeYear": "79.61%",
     "time": 20741,
@@ -778,7 +778,7 @@
     "timeMonth": 25399,
     "timeYear": 21707,
     "dailyMinutesDown": {
-      "2023-06-02": 893,
+      "2023-06-02": 895,
       "2023-06-01": 563,
       "2023-05-31": 430,
       "2023-05-30": 134,
@@ -856,7 +856,7 @@
       "2023-02-15": 1440,
       "2023-02-14": 1047,
       "2023-02-13": 804,
-      "2023-02-12": 308
+      "2023-02-12": 281
     }
   },
   {
@@ -942,7 +942,7 @@
     "timeMonth": 0,
     "timeYear": 640,
     "dailyMinutesDown": {
-      "2023-06-02": 1359,
+      "2023-06-02": 1364,
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
@@ -1205,7 +1205,7 @@
     "timeMonth": 0,
     "timeYear": 669,
     "dailyMinutesDown": {
-      "2023-06-02": 1359,
+      "2023-06-02": 1364,
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
@@ -1500,14 +1500,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "35.40%",
+    "uptimeYear": "35.39%",
     "time": 619,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 667,
     "dailyMinutesDown": {
-      "2023-06-02": 1359,
+      "2023-06-02": 1364,
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
@@ -1781,18 +1781,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jira.internal.therapy-box.co.uk.ico",
     "slug": "jira",
     "status": "down",
-    "uptime": "58.82%",
+    "uptime": "58.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "47.69%",
+    "uptimeYear": "47.68%",
     "time": 1557,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1729,
     "dailyMinutesDown": {
-      "2023-06-02": 1359,
+      "2023-06-02": 1364,
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
@@ -2068,7 +2068,7 @@
     "timeMonth": 0,
     "timeYear": 594,
     "dailyMinutesDown": {
-      "2023-06-02": 1359,
+      "2023-06-02": 1364,
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
@@ -2312,7 +2312,7 @@
     "timeMonth": 0,
     "timeYear": 683,
     "dailyMinutesDown": {
-      "2023-06-02": 1359,
+      "2023-06-02": 1364,
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
