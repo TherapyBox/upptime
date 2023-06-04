@@ -49,7 +49,7 @@
     "timeMonth": 0,
     "timeYear": 391,
     "dailyMinutesDown": {
-      "2023-06-04": 1168,
+      "2023-06-04": 1174,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
@@ -197,7 +197,7 @@
     "timeMonth": 0,
     "timeYear": 924,
     "dailyMinutesDown": {
-      "2023-06-04": 1168,
+      "2023-06-04": 1174,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
@@ -466,7 +466,7 @@
     "timeMonth": 0,
     "timeYear": 597,
     "dailyMinutesDown": {
-      "2023-06-04": 1168,
+      "2023-06-04": 1174,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
@@ -771,19 +771,19 @@
     "url": "https://app.languageexplorerapp.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/app.languageexplorerapp.co.uk.ico",
     "slug": "language-explorer-production",
-    "status": "up",
+    "status": "down",
     "uptime": "83.69%",
-    "uptimeDay": "8.72%",
-    "uptimeWeek": "57.23%",
-    "uptimeMonth": "90.16%",
+    "uptimeDay": "8.59%",
+    "uptimeWeek": "57.21%",
+    "uptimeMonth": "90.15%",
     "uptimeYear": "79.38%",
     "time": 20996,
-    "timeDay": 29169,
+    "timeDay": 29212,
     "timeWeek": 28262,
     "timeMonth": 26160,
     "timeYear": 21978,
     "dailyMinutesDown": {
-      "2023-06-04": 1068,
+      "2023-06-04": 1070,
       "2023-06-03": 1186,
       "2023-06-02": 925,
       "2023-06-01": 563,
@@ -862,7 +862,7 @@
       "2023-02-16": 1440,
       "2023-02-15": 1440,
       "2023-02-14": 1047,
-      "2023-02-13": 55
+      "2023-02-13": 32
     }
   },
   {
@@ -948,7 +948,7 @@
     "timeMonth": 0,
     "timeYear": 641,
     "dailyMinutesDown": {
-      "2023-06-04": 1169,
+      "2023-06-04": 1174,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
@@ -1213,7 +1213,7 @@
     "timeMonth": 0,
     "timeYear": 670,
     "dailyMinutesDown": {
-      "2023-06-04": 1169,
+      "2023-06-04": 1174,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
@@ -1506,7 +1506,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/vert-platform.prod.voca.therapy-box.co.uk.ico",
     "slug": "vert-web-platform-production",
     "status": "down",
-    "uptime": "48.97%",
+    "uptime": "48.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1517,7 +1517,7 @@
     "timeMonth": 0,
     "timeYear": 668,
     "dailyMinutesDown": {
-      "2023-06-04": 1169,
+      "2023-06-04": 1174,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
@@ -1804,7 +1804,7 @@
     "timeMonth": 0,
     "timeYear": 1733,
     "dailyMinutesDown": {
-      "2023-06-04": 1169,
+      "2023-06-04": 1174,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
@@ -2082,7 +2082,7 @@
     "timeMonth": 0,
     "timeYear": 595,
     "dailyMinutesDown": {
-      "2023-06-04": 1169,
+      "2023-06-04": 1174,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
@@ -2328,7 +2328,7 @@
     "timeMonth": 0,
     "timeYear": 683,
     "dailyMinutesDown": {
-      "2023-06-04": 1169,
+      "2023-06-04": 1174,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
