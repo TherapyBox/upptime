@@ -42,7 +42,7 @@
     "timeMonth": 0,
     "timeYear": 399,
     "dailyMinutesDown": {
-      "2023-12-11": 811,
+      "2023-12-11": 817,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
@@ -372,7 +372,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-11": 811,
+      "2023-12-11": 817,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
@@ -756,7 +756,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-11": 811,
+      "2023-12-11": 817,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
@@ -1148,19 +1148,19 @@
     "url": "https://srv.voca-quest.com/",
     "icon": "https://icons.duckduckgo.com/ip3/srv.voca-quest.com.ico",
     "slug": "voca-quest-server-production",
-    "status": "down",
+    "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 462,
-    "timeDay": 355,
-    "timeWeek": 367,
-    "timeMonth": 415,
+    "time": 463,
+    "timeDay": 436,
+    "timeWeek": 392,
+    "timeMonth": 420,
     "timeYear": 445,
     "dailyMinutesDown": {
-      "2023-12-11": 4,
+      "2023-12-11": 6,
       "2023-04-27": 51
     }
   },
@@ -1181,7 +1181,7 @@
     "timeMonth": 0,
     "timeYear": 24851,
     "dailyMinutesDown": {
-      "2023-12-11": 812,
+      "2023-12-11": 817,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
@@ -1520,7 +1520,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-11": 812,
+      "2023-12-11": 818,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
@@ -1904,7 +1904,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-11": 812,
+      "2023-12-11": 818,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
@@ -2288,7 +2288,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-11": 812,
+      "2023-12-11": 818,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
@@ -2692,7 +2692,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-11": 812,
+      "2023-12-11": 818,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
@@ -3088,7 +3088,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/stream-cms.internal.therapy-box.co.uk.ico",
     "slug": "stream-staging-cms",
     "status": "down",
-    "uptime": "35.83%",
+    "uptime": "35.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -3099,7 +3099,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-11": 812,
+      "2023-12-11": 818,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
@@ -3483,7 +3483,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-11": 812,
+      "2023-12-11": 818,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
