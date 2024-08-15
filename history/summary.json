@@ -4,19 +4,19 @@
     "url": "https://therapy-box.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/therapy-box.co.uk.ico",
     "slug": "therapy-box-website",
-    "status": "down",
+    "status": "up",
     "uptime": "98.76%",
-    "uptimeDay": "92.14%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "91.74%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.98%",
-    "time": 1076,
-    "timeDay": 0,
-    "timeWeek": 1850,
-    "timeMonth": 1263,
-    "timeYear": 1092,
+    "time": 1075,
+    "timeDay": 290,
+    "timeWeek": 1627,
+    "timeMonth": 1230,
+    "timeYear": 1090,
     "dailyMinutesDown": {
-      "2024-08-15": 113
+      "2024-08-15": 119
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-15": 961,
+      "2024-08-15": 969,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
@@ -446,7 +446,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-15": 961,
+      "2024-08-15": 969,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
@@ -830,7 +830,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-15": 961,
+      "2024-08-15": 969,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
@@ -1254,7 +1254,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-15": 961,
+      "2024-08-15": 969,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
@@ -1678,7 +1678,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-15": 961,
+      "2024-08-15": 969,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
@@ -2062,7 +2062,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-15": 961,
+      "2024-08-15": 969,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
@@ -2446,7 +2446,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-15": 961,
+      "2024-08-15": 969,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
@@ -2852,7 +2852,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-15": 961,
+      "2024-08-15": 969,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
@@ -3226,9 +3226,9 @@
     "slug": "predictable-cms",
     "status": "down",
     "uptime": "98.44%",
-    "uptimeDay": "93.47%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "92.92%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.98%",
     "time": 82,
     "timeDay": 155,
@@ -3236,7 +3236,7 @@
     "timeMonth": 84,
     "timeYear": 84,
     "dailyMinutesDown": {
-      "2024-08-15": 94
+      "2024-08-15": 102
     }
   },
   {
@@ -3256,7 +3256,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-15": 962,
+      "2024-08-15": 969,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
@@ -3640,7 +3640,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-15": 962,
+      "2024-08-15": 969,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
