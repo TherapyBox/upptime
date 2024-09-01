@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/therapy-box.co.uk.ico",
     "slug": "therapy-box-website",
     "status": "up",
-    "uptime": "98.74%",
+    "uptime": "98.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.57%",
     "uptimeYear": "99.88%",
-    "time": 1065,
-    "timeDay": 891,
-    "timeWeek": 918,
-    "timeMonth": 1004,
-    "timeYear": 1074,
+    "time": 1066,
+    "timeDay": 861,
+    "timeWeek": 976,
+    "timeMonth": 992,
+    "timeYear": 1075,
     "dailyMinutesDown": {
       "2024-08-17": 389,
       "2024-08-16": 121,
@@ -27,7 +27,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/therapy-box.com.ico",
     "slug": "therapy-box-files",
     "status": "down",
-    "uptime": "39.87%",
+    "uptime": "39.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -38,7 +38,9 @@
     "timeMonth": 389,
     "timeYear": 389,
     "dailyMinutesDown": {
-      "2024-08-30": 587,
+      "2024-09-01": 11,
+      "2024-08-31": 1440,
+      "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
@@ -400,9 +402,7 @@
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
-      "2023-09-03": 1440,
-      "2023-09-02": 1440,
-      "2023-09-01": 1440
+      "2023-09-03": 1440
     }
   },
   {
@@ -412,15 +412,15 @@
     "slug": "therapy-box-mail",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "97.06%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.84%",
-    "time": 706,
-    "timeDay": 677,
-    "timeWeek": 710,
-    "timeMonth": 783,
-    "timeYear": 685,
+    "time": 707,
+    "timeDay": 646,
+    "timeWeek": 724,
+    "timeMonth": 773,
+    "timeYear": 686,
     "dailyMinutesDown": {
       "2024-08-30": 42,
       "2024-03-07": 18,
@@ -436,7 +436,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/frontend.staging.voca.therapy-box.co.uk.ico",
     "slug": "voca-quest-frontend-staging",
     "status": "down",
-    "uptime": "24.51%",
+    "uptime": "24.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -447,7 +447,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-30": 587,
+      "2024-09-01": 12,
+      "2024-08-31": 1440,
+      "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
@@ -809,9 +811,7 @@
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
-      "2023-09-03": 1440,
-      "2023-09-02": 1440,
-      "2023-09-01": 1440
+      "2023-09-03": 1440
     }
   },
   {
@@ -820,7 +820,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/srv.staging.voca.therapy-box.co.uk.ico",
     "slug": "voca-quest-server-staging",
     "status": "down",
-    "uptime": "23.96%",
+    "uptime": "23.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -831,7 +831,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-30": 587,
+      "2024-09-01": 12,
+      "2024-08-31": 1440,
+      "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
@@ -1193,9 +1195,7 @@
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
-      "2023-09-03": 1440,
-      "2023-09-02": 1440,
-      "2023-09-01": 1440
+      "2023-09-03": 1440
     }
   },
   {
@@ -1209,11 +1209,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 567,
-    "timeDay": 487,
-    "timeWeek": 475,
-    "timeMonth": 588,
-    "timeYear": 564,
+    "time": 568,
+    "timeDay": 504,
+    "timeWeek": 511,
+    "timeMonth": 578,
+    "timeYear": 565,
     "dailyMinutesDown": {
       "2024-07-22": 27
     }
@@ -1230,9 +1230,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 448,
-    "timeDay": 346,
-    "timeWeek": 410,
-    "timeMonth": 521,
+    "timeDay": 372,
+    "timeWeek": 427,
+    "timeMonth": 508,
     "timeYear": 450,
     "dailyMinutesDown": {
       "2024-07-22": 94
@@ -1244,18 +1244,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.languageexplorerapp.co.uk.ico",
     "slug": "language-explorer-production",
     "status": "down",
-    "uptime": "42.25%",
+    "uptime": "42.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 29016,
+    "time": 29029,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-30": 588,
+      "2024-09-01": 12,
+      "2024-08-31": 1440,
+      "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
@@ -1617,9 +1619,7 @@
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
-      "2023-09-03": 1440,
-      "2023-09-02": 1440,
-      "2023-09-01": 1440
+      "2023-09-03": 1440
     }
   },
   {
@@ -1634,10 +1634,10 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.98%",
     "time": 352,
-    "timeDay": 311,
-    "timeWeek": 312,
-    "timeMonth": 347,
-    "timeYear": 354,
+    "timeDay": 273,
+    "timeWeek": 337,
+    "timeMonth": 341,
+    "timeYear": 355,
     "dailyMinutesDown": {
       "2024-08-15": 111
     }
@@ -1655,8 +1655,8 @@
     "uptimeYear": "99.98%",
     "time": 106,
     "timeDay": 82,
-    "timeWeek": 90,
-    "timeMonth": 99,
+    "timeWeek": 97,
+    "timeMonth": 97,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2024-08-15": 111
@@ -1668,7 +1668,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/play.languageexplorer.app.ico",
     "slug": "dca-play-production",
     "status": "down",
-    "uptime": "24.86%",
+    "uptime": "24.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1679,7 +1679,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-30": 588,
+      "2024-09-01": 12,
+      "2024-08-31": 1440,
+      "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
@@ -2041,9 +2043,7 @@
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
-      "2023-09-03": 1440,
-      "2023-09-02": 1440,
-      "2023-09-01": 1440
+      "2023-09-03": 1440
     }
   },
   {
@@ -2052,7 +2052,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/web-platform.prod.voca.therapy-box.co.uk.ico",
     "slug": "dca-webplatform-production",
     "status": "down",
-    "uptime": "20.65%",
+    "uptime": "20.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2063,7 +2063,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-30": 588,
+      "2024-09-01": 12,
+      "2024-08-31": 1440,
+      "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
@@ -2425,9 +2427,7 @@
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
-      "2023-09-03": 1440,
-      "2023-09-02": 1440,
-      "2023-09-01": 1440
+      "2023-09-03": 1440
     }
   },
   {
@@ -2436,7 +2436,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/vert-platform.prod.voca.therapy-box.co.uk.ico",
     "slug": "vert-web-platform-production",
     "status": "down",
-    "uptime": "24.85%",
+    "uptime": "24.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2447,7 +2447,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-30": 588,
+      "2024-09-01": 12,
+      "2024-08-31": 1440,
+      "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
@@ -2809,9 +2811,7 @@
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
-      "2023-09-03": 1440,
-      "2023-09-02": 1440,
-      "2023-09-01": 1440
+      "2023-09-03": 1440
     }
   },
   {
@@ -2825,10 +2825,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.94%",
-    "time": 368,
-    "timeDay": 111,
-    "timeWeek": 202,
-    "timeMonth": 1025,
+    "time": 367,
+    "timeDay": 186,
+    "timeWeek": 182,
+    "timeMonth": 1026,
     "timeYear": 355,
     "dailyMinutesDown": {
       "2024-08-20": 50,
@@ -2843,7 +2843,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/jira.internal.therapy-box.co.uk.ico",
     "slug": "jira",
     "status": "down",
-    "uptime": "29.73%",
+    "uptime": "29.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2854,7 +2854,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-30": 588,
+      "2024-09-01": 12,
+      "2024-08-31": 1440,
+      "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
@@ -3216,9 +3218,7 @@
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
-      "2023-09-03": 1440,
-      "2023-09-02": 1440,
-      "2023-09-01": 1440
+      "2023-09-03": 1440
     }
   },
   {
@@ -3233,8 +3233,8 @@
     "uptimeMonth": "97.76%",
     "uptimeYear": "99.81%",
     "time": 82,
-    "timeDay": 137,
-    "timeWeek": 82,
+    "timeDay": 91,
+    "timeWeek": 72,
     "timeMonth": 79,
     "timeYear": 72,
     "dailyMinutesDown": {
@@ -3248,7 +3248,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/stream-cms.internal.therapy-box.co.uk.ico",
     "slug": "stream-staging-cms",
     "status": "down",
-    "uptime": "25.34%",
+    "uptime": "25.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -3259,7 +3259,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-30": 588,
+      "2024-09-01": 12,
+      "2024-08-31": 1440,
+      "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
@@ -3621,9 +3623,7 @@
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
-      "2023-09-03": 1440,
-      "2023-09-02": 1440,
-      "2023-09-01": 1440
+      "2023-09-03": 1440
     }
   },
   {
@@ -3632,7 +3632,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/stream-api.internal.therapy-box.co.uk.ico",
     "slug": "stream-staging-api",
     "status": "down",
-    "uptime": "14.76%",
+    "uptime": "14.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -3643,7 +3643,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-30": 588,
+      "2024-09-01": 12,
+      "2024-08-31": 1440,
+      "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
@@ -4005,9 +4007,7 @@
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
-      "2023-09-03": 1440,
-      "2023-09-02": 1440,
-      "2023-09-01": 1440
+      "2023-09-03": 1440
     }
   }
 ]
