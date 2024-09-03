@@ -1,7 +1,7 @@
 url: https://therapy-box.co.uk/pa_api.php
-status: up
-code: 200
-responseTime: 159
-lastUpdated: 2024-09-02T23:08:40.072Z
+status: down
+code: 502
+responseTime: 400
+lastUpdated: 2024-09-03T14:53:00.600Z
 startTime: 2022-02-23T11:01:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
