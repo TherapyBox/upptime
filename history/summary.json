@@ -37,7 +37,7 @@
     "timeMonth": 479,
     "timeYear": 479,
     "dailyMinutesDown": {
-      "2025-09-30": 354,
+      "2025-09-30": 378,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -442,7 +442,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-30": 355,
+      "2025-09-30": 378,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -826,7 +826,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-30": 355,
+      "2025-09-30": 378,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -1198,19 +1198,19 @@
     "url": "https://app.voca-quest.com/",
     "icon": "https://icons.duckduckgo.com/ip3/app.voca-quest.com.ico",
     "slug": "voca-quest-frontend-production",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 566,
-    "timeDay": 560,
-    "timeWeek": 497,
-    "timeMonth": 536,
-    "timeYear": 552,
+    "timeDay": 605,
+    "timeWeek": 519,
+    "timeMonth": 541,
+    "timeYear": 553,
     "dailyMinutesDown": {
-      "2025-09-30": 5
+      "2025-09-30": 23
     }
   },
   {
@@ -1218,19 +1218,19 @@
     "url": "https://srv.voca-quest.com/",
     "icon": "https://icons.duckduckgo.com/ip3/srv.voca-quest.com.ico",
     "slug": "voca-quest-server-production",
-    "status": "down",
+    "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 455,
-    "timeDay": 528,
-    "timeWeek": 439,
-    "timeMonth": 459,
+    "timeDay": 519,
+    "timeWeek": 446,
+    "timeMonth": 460,
     "timeYear": 447,
     "dailyMinutesDown": {
-      "2025-09-30": 5
+      "2025-09-30": 23
     }
   },
   {
@@ -1250,7 +1250,7 @@
     "timeMonth": 0,
     "timeYear": 7455,
     "dailyMinutesDown": {
-      "2025-09-30": 355,
+      "2025-09-30": 378,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -1606,7 +1606,7 @@
     "timeMonth": 318,
     "timeYear": 457,
     "dailyMinutesDown": {
-      "2025-09-30": 355,
+      "2025-09-30": 378,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -1990,7 +1990,7 @@
     "timeMonth": 113,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2025-09-30": 355,
+      "2025-09-30": 378,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -2374,7 +2374,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-30": 355,
+      "2025-09-30": 378,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -2758,7 +2758,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-30": 355,
+      "2025-09-30": 378,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -3142,7 +3142,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-30": 355,
+      "2025-09-30": 378,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -3546,7 +3546,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-30": 355,
+      "2025-09-30": 378,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -3948,7 +3948,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-30": 355,
+      "2025-09-30": 378,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -4332,7 +4332,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-30": 355,
+      "2025-09-30": 378,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
