@@ -37,7 +37,7 @@
     "timeMonth": 479,
     "timeYear": 479,
     "dailyMinutesDown": {
-      "2025-09-30": 679,
+      "2025-09-30": 688,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -442,7 +442,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-30": 679,
+      "2025-09-30": 688,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -826,7 +826,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-30": 679,
+      "2025-09-30": 688,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -1198,19 +1198,19 @@
     "url": "https://app.voca-quest.com/",
     "icon": "https://icons.duckduckgo.com/ip3/app.voca-quest.com.ico",
     "slug": "voca-quest-frontend-production",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "95.83%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "95.53%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
-    "time": 568,
-    "timeDay": 630,
-    "timeWeek": 559,
-    "timeMonth": 553,
+    "time": 559,
+    "timeDay": 636,
+    "timeWeek": 568,
+    "timeMonth": 556,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2025-09-30": 60
+      "2025-09-30": 64
     }
   },
   {
@@ -1218,19 +1218,19 @@
     "url": "https://srv.voca-quest.com/",
     "icon": "https://icons.duckduckgo.com/ip3/srv.voca-quest.com.ico",
     "slug": "voca-quest-server-production",
-    "status": "down",
+    "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "95.83%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "95.53%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
-    "time": 456,
-    "timeDay": 566,
-    "timeWeek": 494,
-    "timeMonth": 475,
+    "time": 457,
+    "timeDay": 570,
+    "timeWeek": 501,
+    "timeMonth": 478,
     "timeYear": 449,
     "dailyMinutesDown": {
-      "2025-09-30": 60
+      "2025-09-30": 64
     }
   },
   {
@@ -1250,7 +1250,7 @@
     "timeMonth": 0,
     "timeYear": 7455,
     "dailyMinutesDown": {
-      "2025-09-30": 679,
+      "2025-09-30": 688,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -1595,7 +1595,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/therapy-box.co.uk.ico",
     "slug": "predictable-5-api",
     "status": "down",
-    "uptime": "69.36%",
+    "uptime": "69.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1606,7 +1606,7 @@
     "timeMonth": 318,
     "timeYear": 457,
     "dailyMinutesDown": {
-      "2025-09-30": 679,
+      "2025-09-30": 688,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -1990,7 +1990,7 @@
     "timeMonth": 113,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2025-09-30": 679,
+      "2025-09-30": 688,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -2374,7 +2374,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-30": 679,
+      "2025-09-30": 689,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -2758,7 +2758,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-30": 679,
+      "2025-09-30": 689,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -3142,7 +3142,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-30": 679,
+      "2025-09-30": 689,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -3546,7 +3546,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-30": 679,
+      "2025-09-30": 689,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -3948,7 +3948,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-30": 680,
+      "2025-09-30": 689,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -4332,7 +4332,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-30": 680,
+      "2025-09-30": 689,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
