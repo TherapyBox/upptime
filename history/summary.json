@@ -36,7 +36,7 @@
     "timeMonth": 485,
     "timeYear": 485,
     "dailyMinutesDown": {
-      "2025-10-15": 480,
+      "2025-10-15": 495,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
@@ -441,7 +441,7 @@
     "timeMonth": 286,
     "timeYear": 286,
     "dailyMinutesDown": {
-      "2025-10-15": 480,
+      "2025-10-15": 495,
       "2025-10-14": 1432,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
@@ -825,7 +825,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-15": 480,
+      "2025-10-15": 495,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
@@ -1197,19 +1197,18 @@
     "url": "https://app.voca-quest.com/",
     "icon": "https://icons.duckduckgo.com/ip3/app.voca-quest.com.ico",
     "slug": "voca-quest-frontend-production",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
-    "time": 562,
-    "timeDay": 669,
-    "timeWeek": 676,
-    "timeMonth": 615,
-    "timeYear": 559,
+    "time": 563,
+    "timeDay": 725,
+    "timeWeek": 689,
+    "timeMonth": 619,
+    "timeYear": 560,
     "dailyMinutesDown": {
-      "2025-10-15": 4,
       "2025-09-30": 55
     }
   },
@@ -1218,19 +1217,18 @@
     "url": "https://srv.voca-quest.com/",
     "icon": "https://icons.duckduckgo.com/ip3/srv.voca-quest.com.ico",
     "slug": "voca-quest-server-production",
-    "status": "down",
+    "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 459,
-    "timeDay": 575,
-    "timeWeek": 524,
-    "timeMonth": 526,
+    "timeDay": 582,
+    "timeWeek": 533,
+    "timeMonth": 528,
     "timeYear": 454,
     "dailyMinutesDown": {
-      "2025-10-15": 3,
       "2025-09-30": 55
     }
   },
@@ -1251,7 +1249,7 @@
     "timeMonth": 0,
     "timeYear": 7455,
     "dailyMinutesDown": {
-      "2025-10-15": 480,
+      "2025-10-15": 495,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
@@ -1607,7 +1605,7 @@
     "timeMonth": 345,
     "timeYear": 444,
     "dailyMinutesDown": {
-      "2025-10-15": 480,
+      "2025-10-15": 495,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
@@ -1991,7 +1989,7 @@
     "timeMonth": 113,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2025-10-15": 480,
+      "2025-10-15": 496,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
@@ -2375,7 +2373,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-15": 480,
+      "2025-10-15": 496,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
@@ -2759,7 +2757,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-15": 480,
+      "2025-10-15": 496,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
@@ -3143,7 +3141,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-15": 480,
+      "2025-10-15": 496,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
@@ -3547,7 +3545,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-15": 480,
+      "2025-10-15": 496,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
@@ -3949,7 +3947,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-15": 480,
+      "2025-10-15": 496,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
@@ -4333,7 +4331,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-15": 480,
+      "2025-10-15": 496,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
